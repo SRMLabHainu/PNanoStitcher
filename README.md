@@ -15,3 +15,8 @@ Note: please upgrade your GPU driver to the newest (https://www.geforce.com/driv
 5, Install plugin
 
 6, Note: PNanoStitcher only supports English file name / path.
+
+
+How to install and use
+
+1, The methods of installation and usage are the same as NanoStitcher.
